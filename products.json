@@ -1,0 +1,83 @@
+{
+  "items": {
+    "repa_1": {
+      "name": "Répa 1",
+      "img": "repa_1.png",
+      "category": "Húsvét"
+    },
+    "nyuszi_1": {
+      "name": "Nyuszi 1",
+      "img": "nyuszi_1.png",
+      "category": "Húsvét",
+      "new_until": "2025-04-06"
+    },
+    "tojas_1": {
+      "name": "Tojás 1",
+      "img": "tojas_1.png",
+      "category": "Húsvét",
+      "new_until": "2025-04-06"
+    },
+    "csirke_1": {
+      "name": "Csirke 1",
+      "img": "csirke_1.png",
+      "category": "Húsvét",
+      "new_until": "2025-04-06"
+    },
+    "barany_1": {
+      "name": "Bárány 1",
+      "img": "barany_1.png",
+      "category": "Húsvét",
+      "new_until": "2025-04-06"
+    },
+    "nyuszi_2": {
+      "name": "Nyuszi 2",
+      "img": "nyuszi_2.png",
+      "category": "Húsvét",
+      "new_until": "2025-04-06"
+    },
+    "repa_2": {
+      "name": "Répa 2",
+      "img": "repa_2.png",
+      "category": "Húsvét"
+    },
+    "tappancs_1": {
+      "name": "Tappancs 1",
+      "img": "tappancs_1.png",
+      "category": "Húsvét"
+    },
+    "csibe_1": {
+      "name": "Csibe 1",
+      "img": "csibe_1.png",
+      "category": "Húsvét"
+    },
+    "madar_1": {
+      "name": "Madár 1",
+      "img": "madar_1.png",
+      "category": "Húsvét"
+    },
+    "nyuszi_3": {
+      "name": "Nyuszi 3",
+      "img": "nyuszi_3.png",
+      "category": "Húsvét",
+      "new_until": "2025-04-06"
+    },
+    "nyuszi_4": {
+      "name": "Nyuszi 4",
+      "img": "nyuszi_4.png",
+      "category": "Húsvét",
+      "new_until": "2025-04-06"
+    },
+    "nyuszi_5": {
+      "name": "Nyuszi 5",
+      "img": "nyuszi_5.png",
+      "category": "Húsvét",
+      "new_until": "2025-04-06"
+    },
+    "nyuszi_6": {
+      "name": "Nyuszi 6",
+      "img": "nyuszi_6.png",
+      "category": "Húsvét",
+      "new_until": "2025-04-06"
+    }
+  }
+}
